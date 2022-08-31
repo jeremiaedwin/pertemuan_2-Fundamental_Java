@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.pbo_pertemuan2","c":"FloatingPoint","l":"FloatingPoint()","u":"%3Cinit%3E()"},{"p":"com.pbo_pertemuan2","c":"FloatingPoint","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

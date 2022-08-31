@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.pbo_pertemuan2","l":"addNum"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
